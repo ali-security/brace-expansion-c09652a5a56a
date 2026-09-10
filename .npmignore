@@ -1,5 +1,6 @@
 test
 .gitignore
 .travis.yml
+.github/workflows
 example.js
 .npmignore
